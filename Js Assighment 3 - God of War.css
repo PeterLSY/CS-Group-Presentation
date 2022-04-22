@@ -1,0 +1,195 @@
+* {
+    font-family: 'godofwar';
+}
+
+#Hpat0 {
+    background-color: black;
+    size: cover;
+    position: fixed;
+    z-index: 1000;
+}
+
+.main-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gowIcon {
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20%;
+}
+
+#gowIcon2 {
+    width: 40%;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    height: 40%;
+    position: fixed;
+    opacity: 0.0;
+}
+
+#gowIcon2:hover {
+    width: 80%;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    height: 40%;
+    position: fixed;
+    opacity: 1;
+    transition: 2s ease;
+}
+
+li {
+    margin-left: 40px;
+}
+
+.item {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.item:hover {
+    color: firebrick;
+    text-decoration: none;
+}
+
+#Hpat1{
+    background-image: url("http://naciongrita.com.mx/wp-content/uploads/2018/04/GOW-2.jpg");
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    filter: brightness(50%);
+    transition: 1.5s ease;
+}
+
+#Hpat1:hover {
+    background-image: url("http://naciongrita.com.mx/wp-content/uploads/2018/04/GOW-2.jpg");
+    height: 1100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    filter: brightness(100%);
+}
+
+#ved {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    width: 200px;
+    margin-bottom: 450px;
+    margin-top: auto;
+    text-align: center;
+    border-style: solid;
+    opacity: 0.1;
+
+}
+
+#ved:hover {
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    width: 200px;
+    margin-bottom: 450px;
+    margin-top: auto;
+    text-align: center;
+    border-style: none;
+    background-color: darkred;
+    box-shadow: 0 0 40px darkred;
+    text-decoration: none;
+    opacity: 1;
+    transition: 1.5s;
+    width: 300px;
+}
+
+.bigTitle {
+    color: white;
+    margin-top: 100px;
+}
+
+#tit {
+    background-color: darkred;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+
+.h .img_container {
+    width: 100%;
+    height: auto;
+}
+
+#personimg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#iFp0 {
+    width: 80%;
+    margin-bottom: 50px;
+    transition: 1.5s;
+    margin-top: 20px;
+    margin-top: auto
+}
+
+#iFp0:hover {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-top: auto
+}
+
+#iFp1 {
+    width: 60%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    transition: 1.5s;
+    margin-top: auto 
+}
+
+#iFp1:hover {
+    width: 80%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-top: auto
+}
+
+#cont {
+    height: 150px;
+    width: 600px;
+    font-size: 2em;
+    color: white;
+    overflow: scroll;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    color: white
+}
+
+.Personame {
+    color: darkred;
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+#Hpat2{
+	background-image: url('https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-bg-image-03-full-us-06oct17?$4000px$&fmt=webp');
+	background-size: cover;
+}
+
+#bgi2{
+	background-image: url('https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-bg-image-03-full-us-06oct17?$4000px$&fmt=webp');
+}

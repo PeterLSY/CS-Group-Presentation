@@ -1,0 +1,89 @@
+html, body {
+  background-image: url("https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-bg-image-icon-01-ps4-us-27oct17?$native--t$");
+  text-align: center;
+  font-family:Helvetica, sans-serif;
+    margin: auto;
+  margin-top: -10px;
+  padding-top: 20px;
+}
+
+
+#form-outer {
+  background-color: rgba(255,255,255,0.85);
+  margin: auto;
+  border-radius: 10px;
+  width: 75%;
+  max-width: 750px;
+  padding: 10px;
+  padding-top: 10px;
+  margin-bottom: 30px;
+}
+
+#description {
+  font-size: 18px;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.rightTab {
+  display: inline-block;
+  text-align: left;
+  width: 45%;
+  vertical-align: middle;
+}
+
+#userAge {
+  width: 40px;
+}
+
+.input-field {
+  height: 20px;
+  width: 170px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 3px;
+}
+
+.userRatings,
+input[type="checkbox"] {
+  float: left;
+  margin-right: 5px;
+}
+
+#submit {
+  background-color: #222222;
+  border-radius: 10px;
+  color: white;
+  font-size: 1em;
+  height: 40px;
+  width: 96px;
+  margin: 10px;
+  border: 0px solid;
+  cursor: pointer;
+}
+
+
+.dropdown {
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;
+  margin-top: 15px;
+  border: 1px solid #c0c0c0;
+  border-radius: 3px;
+}
+.radio, .checkbox {
+  position: relative;
+  left: -43px;
+  margin-left: 10px;
+  display: block;
+  padding-bottom: 10px;
+}

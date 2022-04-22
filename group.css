@@ -1,0 +1,114 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+.peter{
+	cursor: pointer;
+    position: relative;
+    text-align: center;
+    border-radius: 2rem;
+    margin: 0;
+    font-size: var(--text-4);
+    font-weight: 600;
+    line-height: 1.25em;
+    color: black;
+    padding: var(--space-4) var(--space-5);
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #19191f;
+    background: #fff;
+    width: 50%;
+
+}
+.peter3{
+	cursor: pointer;
+    position: relative;
+    text-align: center;
+    border-radius: 2rem;
+    margin: 0;
+    font-size: var(--text-4);
+    font-weight: 600;
+    line-height: 2.8em;
+    color: black;
+    padding: var(--space-4) var(--space-5);
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #19191f;
+    background: #fff;
+    width: 15%;
+    height:200% ;
+
+}
+.peter4{
+	cursor: pointer;
+    position: relative;
+    text-align: center;
+    border-radius: 2rem;
+    margin: 0;
+    font-size: var(--text-4);
+    font-weight: 600;
+    line-height: 1.25em;
+    color: black;
+    padding: var(--space-4) var(--space-5);
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #19191f;
+    background: #fff;
+    width: 15%;
+    height:% ;
+
+}
+.peter2{padding: 2px;
+    display: block;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    will-change: background,box-shadow;
+    transition: all .1s ease-in-out;
+    margin: 0.25rem;
+    border-radius: 2rem;}
+
+.main-container {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gowIcon {
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 20%;
+}
+
+#Hpat0 {
+    background-color: black;
+    size: cover;
+    position: fixed;
+    z-index: 1000;
+}
+
+.item {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: godofwar;
+}
+
+.item:hover {
+    color: firebrick;
+    text-decoration: none;
+    font-family: godofwar;
+}

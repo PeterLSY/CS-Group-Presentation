@@ -1,0 +1,111 @@
+body{
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/god-of-war-hub-hero-banner-desktop-02-en-25jun21?$native$);
+
+}
+
+
+#kenny1{
+	float: right;
+}
+
+#kenny2{
+	float: left;
+	margin-top: 200px;
+}
+
+h1{
+	font-family: godofwar;
+	margin-top: 350px;
+	margin-left: 55px;
+}
+
+#kenny3{
+    font-size: 100px;
+    font-family: godofwar;
+
+}
+
+#kenny99{
+	font-size: 25px;
+	color: white;
+
+}
+
+#kenny4{
+	font-size: 50px;
+	font-family:godofwar ;
+}
+
+#kenny5{
+     text-align: right;
+     margin-top: -70px;
+     cursor: pointer;
+    position: relative;
+    text-align: center;
+    border-radius: 2
+rem
+;
+    margin: 0;
+    font-size: var(--text-4);
+    font-weight: 600;
+    line-height: 1.25em;
+    padding: var(--space-4) var(--space-5);
+    display: flex;
+    align-items: center;
+justify-content: center;
+    color: #fff;
+    background: #2d64e6; 
+}
+
+.division{
+	width: 25%;
+	float: left;
+
+}
+
+.division2{
+	width: 25%;
+	float: right;
+	margin-top: 20px;
+}
+
+.division3{
+	width: 25%;
+	float: right;
+	margin-top: 20px;
+}
+
+.division4{
+	width: 25%;
+	float: right;
+	margin-top: 20px;
+}
+
+.division5{
+	width: 25%;
+	float: right;
+	margin-top: 20px;
+}
+
+#kenny6{
+	font-family: Cinzel Decorative;
+	margin-top: 30px;
+	font-size: 50px;
+}
+
+
+
+.division6{
+	width: 35%;
+	float: left;
+
+}
+
+.division6{
+	width: 30%;
+	float: left;
+
+}
+
+
+
